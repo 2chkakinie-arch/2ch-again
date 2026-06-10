@@ -1,0 +1,28 @@
+2ch-again Software License
+
+Copyright (C) 2026 Kakinie. All rights reserved.
+
+This Software License ("License") governs the use, copying, and deployment of the "2ch-again" anonymous bulletin board software, including its source code, documentation, and associated files (collectively, the "Software"), developed by Kakinie ("Copyright Holder").
+
+By accessing, downloading, copying, or installing the Software, you agree to be bound by the terms of this License.
+
+1. PERMITTED USES (Deployment and Hosting)
+You are granted a non-exclusive, worldwide, royalty-free right to run, host, deploy, and execute the Software on any server, infrastructure, or platform for the purpose of operating an online bulletin board system. Anyone is free to launch and run an instance of this Software, provided that it is running the exact, un-modified source code as provided by the Copyright Holder.
+
+2. STRICT PROHIBITION OF MODIFICATIONS
+You shall not modify, alter, patch, change, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software or any portion thereof. The source code must remain 100% identical to the official releases provided by the Copyright Holder. Any modification of the code, regardless of intent (including bug fixes, UI tweaks, or features), is a direct violation of this License.
+
+3. COPYING AND REDISTRIBUTION
+You may copy and redistribute exact, verbatim copies of the Software's source code to third parties, provided that:
+(a) You do not alter or delete any copyright notices, trademarks, or this License file.
+(b) You include this License file in its entirety with every copy you distribute.
+(c) The redistributed code remains completely unmodified.
+
+4. COMMERCIAL USE RESTRICTIONS
+You may host and operate the Software for commercial purposes (including monetization via advertisements or premium features on your hosted instance). However, you are strictly prohibited from selling, renting, leasing, or licensing the Software itself (the source code or packaged application) to any third party for a fee.
+
+5. TERMINATION
+This License and your right to use the Software will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use, hosting, and distribution of the Software and destroy all copies in your possession.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
